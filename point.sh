@@ -4,10 +4,10 @@ clear
 
 echo ""
 echo "-----------------------------------------"
-echo "              VPS POINTING GASSS               "
+echo "              VPS POINTING               "
 echo "-----------------------------------------"
 echo ""
-echo " Script By TegarPrayuda"
+echo " 🔥GASSS, Script By Om Tegar Prayuda🔥"
 echo ""
 PS3="$(printf -- "------------------------------------------------------------------")""
 Pilih Opsi Yang Ingin Digunakan : "
