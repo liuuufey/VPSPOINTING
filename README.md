@@ -8,7 +8,7 @@ Misalkan agar ISP DO support ketengan youtube kan wajib pakai ISP GCP.
 Cara Pointingnya:
 1. Install scriptnya di VPS GCP
 
-2. Masukan portnya yang sudah open di GCP,
+2. Pilih menu Create. Masukan portnya yang sudah open di GCP,
 Range 2 - 65335 tapi jangan port yang sudah terpakai di GCP itu sendiri atau bentrok.
 Contoh saya memakai port 234 (enter)
 
