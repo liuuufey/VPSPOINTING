@@ -24,4 +24,6 @@ Test ssh nya dengan cara buat akun ssh di VPS DO.
 Ambil user dan passwordnya saja dari VPS DO untuk host dan port gunakan host/ip dari GCP dan port 234 yang tadi di buka.
 Karena tadi memakai metode inject bug SNI maka isi host, port, user, password dan bug SNI nya. Selesai...
 
-Gasss pointing, thanks to Tegar Prayuda
+Created: @maintenancez
+
+Gasss pointing, thanks to Tegar Prayuda for Script
